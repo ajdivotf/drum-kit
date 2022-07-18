@@ -6,4 +6,4 @@ this is the implementation of the task from the freecodecamp course - front end 
 
 the results are:
 
-!(https://github.com/ajdivotf/drum-kit/blob/main/results/drum%20kit.gif)[https://github.com/ajdivotf/drum-kit/blob/main/results/drum%20kit.gif]
+!()[https://github.com/ajdivotf/drum-kit/blob/main/results/drum%20kit.gif]
